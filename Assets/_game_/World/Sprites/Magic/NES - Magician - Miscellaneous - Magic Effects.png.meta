@@ -1,0 +1,1381 @@
+fileFormatVersion: 2
+guid: eabb25454a46070469205c36dc2ac1bb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 265
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b0d3129190e83428ed629b7fc9a3bc
+      internalID: 715822119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 243
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ca0484979d2d844be8d9559a6e4d43
+      internalID: -1672326647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 243
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b139fa268348b4eb8644611899639c
+      internalID: -1831612056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 243
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03886972ee89ee45be2093afba892a7
+      internalID: -373142905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 221
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace1783079b61c8458047b2dbf8a17d6
+      internalID: -6187457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 221
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19015c3868fe6e47a3212173427d9fb
+      internalID: -1321591941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 221
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468da14e6c922a343a8d6e786ae6f9ea
+      internalID: 1788698195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 221
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb69af0ff9765344b92e8eb6673db1fd
+      internalID: -250400368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 221
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321e4bb6f6e5d8e4e8c109b3b7d4cf7b
+      internalID: 561746869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 221
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45587becefd5f4b4d8868393173c107e
+      internalID: -780713470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 199
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcefa831efc21449bfae36dc208e922
+      internalID: -1582784810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 199
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96dc39458c75894c90bba2dc374be2b
+      internalID: 622551235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 199
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a7e88665c174c4db41035e973ddd17
+      internalID: 1431180621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 199
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8976629399f48264496dfb7662fa2d7b
+      internalID: -1157084221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 199
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d42271c25133549aa77f9069dbbbc0
+      internalID: 1872984852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 199
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2360feeca8d2084b88381dcc1bc871e
+      internalID: -502189506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 177
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b9e22bd87d2be44a4360528a35ad61
+      internalID: -1591399292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 177
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9e93501fa38b64e9f3425aba961d8f
+      internalID: 705205152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 177
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b1cc00af4b0d64b98c45a3150576e3
+      internalID: 1126089969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 177
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7344840aeaf6243b6d511ff2d82f7e
+      internalID: 1176472967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 155
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a4fd8401bfc794097f1f5712b28254
+      internalID: 301828118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 155
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77653655f3e1848478b9fac9df53e48d
+      internalID: -1992186566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 155
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a46613b297e984409eaa680894a4e0f
+      internalID: 401295959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 155
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8d603b2661bb34fb2704ad6cbb41c3
+      internalID: -1807132300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 133
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9621ca5d60d3b1479ba41a59b70b9b2
+      internalID: 550140548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 133
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4146440062165c489513944542a5244
+      internalID: -1802501382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 133
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88cbbb61b6299240b97ccd2ea586cc8
+      internalID: -1662789818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_27
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 133
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cd7f7fbaa01c24ea685d43aed69775
+      internalID: 1076207765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8509865f71cf8b4094b956b79d7c0bd
+      internalID: -1350272773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 111
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c3d5aa4206b0c498e9a4c9b7c88fb0
+      internalID: -1656463505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 111
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517bdf35a7c7a684ea4943070c66d2be
+      internalID: 1294709901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 111
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f6b15875e18d7469d33346b8f5a59e
+      internalID: 1727499161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 89
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773ffe45b21f91c448a250545083fdbd
+      internalID: -2014586287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5e53deb1aa2b946bfc06725cf4185a
+      internalID: 492547287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_34
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 67
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd09cb6aafa258438eab048bd6c4cc3
+      internalID: -449031071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_35
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 67
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e05e2658a7dd54598713bc19d38eaf
+      internalID: -1267010025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 67
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f298ec86e74e0a4bb5f3e4b1a199322
+      internalID: 6193141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 45
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf87788e09cbc948969b127242b4447
+      internalID: 1610874188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 45
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbdb0b38b654fb4caf6c68f87145961
+      internalID: 1057316814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_39
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 45
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbd8a24449d53845b977b8a6d6d0ca8
+      internalID: 2100984858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_40
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 45
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a20d5b7ce03604ab54a5317205241d
+      internalID: -1449053174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 45
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22831adbe1d713845a6b57a09121605e
+      internalID: 1080429732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 45
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efe5f65295e1234e97fabfbff7aa9f0
+      internalID: -1019792906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 23
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24264487250ec964eaf7e06580235115
+      internalID: -1851312122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_44
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 23
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97a2d710c099444f8078f4ea2325c28
+      internalID: -1525043317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_45
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 23
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e42db920f269c479212bed647b2447
+      internalID: 380751826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_46
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 23
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c0497204840e043b28f20f34ae79e2
+      internalID: -11696779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 23
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b57d7c1effc00a44abf612e633cd855
+      internalID: 1508560973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 23
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d121236d426794b95681dfb65aaae5
+      internalID: -1098608763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_49
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 23
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c145efd43deba14a8d7f5f9176f82c1
+      internalID: -427784481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_50
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 23
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f76255fdd8b1294194d0e736d26ddcc
+      internalID: 2113213781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975bbcc3a6963f648825213e54fc0231
+      internalID: 1175333066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55835d1a0b6fa4848a3378d7254d8353
+      internalID: -1866139181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59373e328eb23744826b24f122fe30d
+      internalID: 1527192971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_54
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0c1c058e7987e47b1dd6255153a346
+      internalID: 407145166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_55
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230cdd6805ff8604996a60e2bb0e05df
+      internalID: -1195955916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Magician - Miscellaneous - Magic Effects_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47651c3bad5576447a5e7ddb5c8d1e45
+      internalID: 1463754184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Magician - Miscellaneous - Magic Effects_0: 715822119
+      NES - Magician - Miscellaneous - Magic Effects_1: -1672326647
+      NES - Magician - Miscellaneous - Magic Effects_10: -1582784810
+      NES - Magician - Miscellaneous - Magic Effects_11: 622551235
+      NES - Magician - Miscellaneous - Magic Effects_12: 1431180621
+      NES - Magician - Miscellaneous - Magic Effects_13: -1157084221
+      NES - Magician - Miscellaneous - Magic Effects_14: 1872984852
+      NES - Magician - Miscellaneous - Magic Effects_15: -502189506
+      NES - Magician - Miscellaneous - Magic Effects_16: -1591399292
+      NES - Magician - Miscellaneous - Magic Effects_17: 705205152
+      NES - Magician - Miscellaneous - Magic Effects_18: 1126089969
+      NES - Magician - Miscellaneous - Magic Effects_19: 1176472967
+      NES - Magician - Miscellaneous - Magic Effects_2: -1831612056
+      NES - Magician - Miscellaneous - Magic Effects_20: 301828118
+      NES - Magician - Miscellaneous - Magic Effects_21: -1992186566
+      NES - Magician - Miscellaneous - Magic Effects_22: 401295959
+      NES - Magician - Miscellaneous - Magic Effects_23: -1807132300
+      NES - Magician - Miscellaneous - Magic Effects_24: 550140548
+      NES - Magician - Miscellaneous - Magic Effects_25: -1802501382
+      NES - Magician - Miscellaneous - Magic Effects_26: -1662789818
+      NES - Magician - Miscellaneous - Magic Effects_27: 1076207765
+      NES - Magician - Miscellaneous - Magic Effects_28: -1350272773
+      NES - Magician - Miscellaneous - Magic Effects_29: -1656463505
+      NES - Magician - Miscellaneous - Magic Effects_3: -373142905
+      NES - Magician - Miscellaneous - Magic Effects_30: 1294709901
+      NES - Magician - Miscellaneous - Magic Effects_31: 1727499161
+      NES - Magician - Miscellaneous - Magic Effects_32: -2014586287
+      NES - Magician - Miscellaneous - Magic Effects_33: 492547287
+      NES - Magician - Miscellaneous - Magic Effects_34: -449031071
+      NES - Magician - Miscellaneous - Magic Effects_35: -1267010025
+      NES - Magician - Miscellaneous - Magic Effects_36: 6193141
+      NES - Magician - Miscellaneous - Magic Effects_37: 1610874188
+      NES - Magician - Miscellaneous - Magic Effects_38: 1057316814
+      NES - Magician - Miscellaneous - Magic Effects_39: 2100984858
+      NES - Magician - Miscellaneous - Magic Effects_4: -6187457
+      NES - Magician - Miscellaneous - Magic Effects_40: -1449053174
+      NES - Magician - Miscellaneous - Magic Effects_41: 1080429732
+      NES - Magician - Miscellaneous - Magic Effects_42: -1019792906
+      NES - Magician - Miscellaneous - Magic Effects_43: -1851312122
+      NES - Magician - Miscellaneous - Magic Effects_44: -1525043317
+      NES - Magician - Miscellaneous - Magic Effects_45: 380751826
+      NES - Magician - Miscellaneous - Magic Effects_46: -11696779
+      NES - Magician - Miscellaneous - Magic Effects_47: 1508560973
+      NES - Magician - Miscellaneous - Magic Effects_48: -1098608763
+      NES - Magician - Miscellaneous - Magic Effects_49: -427784481
+      NES - Magician - Miscellaneous - Magic Effects_5: -1321591941
+      NES - Magician - Miscellaneous - Magic Effects_50: 2113213781
+      NES - Magician - Miscellaneous - Magic Effects_51: 1175333066
+      NES - Magician - Miscellaneous - Magic Effects_52: -1866139181
+      NES - Magician - Miscellaneous - Magic Effects_53: 1527192971
+      NES - Magician - Miscellaneous - Magic Effects_54: 407145166
+      NES - Magician - Miscellaneous - Magic Effects_55: -1195955916
+      NES - Magician - Miscellaneous - Magic Effects_56: 1463754184
+      NES - Magician - Miscellaneous - Magic Effects_6: 1788698195
+      NES - Magician - Miscellaneous - Magic Effects_7: -250400368
+      NES - Magician - Miscellaneous - Magic Effects_8: 561746869
+      NES - Magician - Miscellaneous - Magic Effects_9: -780713470
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
